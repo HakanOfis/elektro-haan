@@ -22,8 +22,8 @@
   "images": {
     "logo": "logo.jpeg",
     "logoTrim": "logo-trim.png",
-    "hero": "",
-    "about": ""
+    "hero": "img/hero.webp",
+    "about": "img/about.webp"
   },
   "nl": {
     "meta": {
@@ -52,7 +52,8 @@
       "title": "Uw elektricien in Duffel en omgeving",
       "text": "Van een kapot stopcontact tot een nieuwe zekeringkast. Eén man, 30+ jaar ervaring, snel ter plaatse.",
       "ctaCall": "Bel nu",
-      "ctaWhatsapp": "Stuur een WhatsApp"
+      "ctaWhatsapp": "Stuur een WhatsApp",
+      "photoAlt": "Elektricien met meettoestel aan een elektrische kast (illustratiefoto)"
     },
     "trust": [
       { "icon": "clock", "title": "30+ jaar ervaring", "text": "Een vak dat we door en door kennen." },
@@ -106,7 +107,7 @@
         "Elektro Haan is het eenmanszaak van Hamza Kuyucu in Duffel. Hij heeft meer dan 30 jaar ervaring in de elektriciteit, ook via opleidingen.",
         "U spreekt altijd rechtstreeks met de man die het werk doet. Eerlijk advies, een duidelijke offerte en netjes werk."
       ],
-      "photoAlt": "Hamza Kuyucu"
+      "photoAlt": "Elektriekersgereedschap: tangen (illustratiefoto)"
     },
     "contact": {
       "title": "Contact",
@@ -167,7 +168,8 @@
       "title": "Duffel ve çevresinde elektrikçiniz",
       "text": "Bozuk bir prizden yeni bir sigorta panosuna kadar. 30+ yıllık tecrübe, hızlı geliriz.",
       "ctaCall": "Hemen Ara",
-      "ctaWhatsapp": "WhatsApp'tan Yaz"
+      "ctaWhatsapp": "WhatsApp'tan Yaz",
+      "photoAlt": "Elektrik panosunda ölçü aleti kullanan elektrikçi (temsili fotoğraf)"
     },
     "trust": [
       { "icon": "clock", "title": "30+ yıl tecrübe", "text": "İşimizi iyi biliriz." },
@@ -221,7 +223,7 @@
         "Elektro Haan, Duffel'de Hamza Kuyucu'nun şahıs firmasıdır. Eğitimleriyle birlikte 30 yıldan fazla elektrik tecrübesi vardır.",
         "İşi yapan kişiyle doğrudan konuşursunuz. Dürüst tavsiye, net teklif ve düzgün iş."
       ],
-      "photoAlt": "Hamza Kuyucu"
+      "photoAlt": "Elektrikçi el aletleri: kargaburun ve keskiler (temsili fotoğraf)"
     },
     "contact": {
       "title": "İletişim",

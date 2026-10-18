@@ -100,7 +100,7 @@ function render(lang) {
             <a class="btn btn-ghost" href="${B.whatsapp}" target="_blank" rel="noopener">${icon('wa')}${esc(t.hero.ctaWhatsapp)}</a>
           </div>
         </div>
-        <div class="hero-media">${site.images.hero ? photo(site.images.hero, B.name, ui.photoSoon, 'hero-img') : `<div class="logo-card"><img src="${esc(site.images.logoTrim)}" alt="${esc(B.name)}" width="837" height="1029" decoding="async" /></div>`}</div>
+        <div class="hero-media">${site.images.hero ? photo(site.images.hero, t.hero.photoAlt || B.name, ui.photoSoon, 'hero-img') : `<div class="logo-card"><img src="${esc(site.images.logoTrim)}" alt="${esc(B.name)}" width="837" height="1029" decoding="async" /></div>`}</div>
       </div>
     </section>
 

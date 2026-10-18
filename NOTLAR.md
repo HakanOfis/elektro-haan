@@ -30,6 +30,11 @@ Her şey `src/content/site.json` içinde:
 - Fotoğraflar `public/img/` içine konur, JSON'da yol `img/dosya.webp` şeklinde yazılır (başında `/` yok). WebP önerilir.
 - Hero fotoğrafı: `images.hero`. Boşken hero'da logo kartı görünür. Hakkında fotoğrafı: `images.about` (boşken "Foto volgt / Fotoğraf gelecek" kutusu).
 
+## GEÇİCİ stok fotoğraflar
+- `public/img/hero.webp` ve `public/img/about.webp` Unsplash'tan alınmış GEÇİCİ stok fotoğraflardır (hero: eldivenli elektrikçi ve pano, hakkında: pense/alet). Gerçek fotoğraflarla değiştirin: aynı dosya adıyla üzerine yazın veya `images.hero` / `images.about` yolunu güncelleyin. Alt metinler `nl.hero.photoAlt`, `tr.hero.photoAlt`, `about.photoAlt` içindedir (gerçek fotoğrafta güncelleyin; hakkında için Hamza Bey'in adı).
+- Kaynak, fotoğrafçı ve lisans listesi: `public/img/KAYNAKLAR.md`. Gerçek fotoğraf gelince o dosyayı ve listeyi güncelleyin.
+- `projects.items` ve `reviews.items` bilerek boş bırakıldı: stok fotoğraf Hamza Bey'in işi gibi gösterilmemeli.
+
 ## Açık işler (brief'ten)
 - 6-10 gerçek iş fotoğrafı, Hamza Bey'in fotoğrafı ve biyografisi.
 - Google işletme profili linki ve izinli 2-3 gerçek yorum.
