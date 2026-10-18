@@ -55,3 +55,6 @@ Her şey `src/content/site.json` içinde:
    ```
 3. Depoda Settings → Pages → Source: **GitHub Actions**.
 4. Push sonrası Actions sekmesinde "Deploy to GitHub Pages" çalışır; adres `https://hakanofis.github.io/DEPO-ADI/` olur.
+
+> Yayın kaynağı: Settings → Pages → Source = **GitHub Actions** olmalı. 'Deploy from a branch' seçilirse site beyaz açılır.
+
