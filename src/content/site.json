@@ -1,0 +1,258 @@
+{
+  "business": {
+    "name": "Elektro Haan",
+    "nameTr": "Horoz Elektrik",
+    "legalName": "Hamza Kuyucu",
+    "phone": "+32 495 17 27 39",
+    "phoneRaw": "+32495172739",
+    "whatsapp": "https://wa.me/32495172739",
+    "email": "hamzahanifikuyucu@gmail.com",
+    "street": "Kerkstraat 14/1",
+    "postalCode": "2570",
+    "city": "Duffel",
+    "country": "BE",
+    "vat": "BE1028.829.411",
+    "hours": "7/24",
+    "experienceYears": "30+",
+    "googleReviewsUrl": "",
+    "mapEmbed": "https://www.openstreetmap.org/export/embed.html?bbox=4.4,51.06,4.55,51.12&layer=mapnik&marker=51.0963,4.5063",
+    "mapLink": "https://www.openstreetmap.org/?mlat=51.0963&mlon=4.5063#map=14/51.0963/4.5063",
+    "siteUrl": ""
+  },
+  "images": {
+    "logo": "logo.jpeg",
+    "logoTrim": "logo-trim.png",
+    "hero": "",
+    "about": ""
+  },
+  "nl": {
+    "meta": {
+      "title": "Elektro Haan – Elektricien in Duffel | 30+ jaar ervaring",
+      "description": "Elektro Haan is uw elektricien in Duffel en omgeving. Installaties, herstellingen, zekeringkasten, camera's en meer. 7/24 bereikbaar. Vraag een gratis offerte."
+    },
+    "ui": {
+      "call": "Bel",
+      "callLong": "Bel nu",
+      "whatsapp": "WhatsApp",
+      "whatsappLong": "Stuur een WhatsApp",
+      "skip": "Naar de inhoud",
+      "lang": "Taal",
+      "photoSoon": "Foto volgt",
+      "menu": "Menu",
+      "ctaBar": "Snel contact"
+    },
+    "nav": [
+      { "id": "diensten", "label": "Diensten" },
+      { "id": "werkwijze", "label": "Werkwijze" },
+      { "id": "faq", "label": "Vragen" },
+      { "id": "over", "label": "Over ons" },
+      { "id": "contact", "label": "Contact" }
+    ],
+    "hero": {
+      "title": "Uw elektricien in Duffel en omgeving",
+      "text": "Van een kapot stopcontact tot een nieuwe zekeringkast. Eén man, 30+ jaar ervaring, snel ter plaatse.",
+      "ctaCall": "Bel nu",
+      "ctaWhatsapp": "Stuur een WhatsApp"
+    },
+    "trust": [
+      { "icon": "clock", "title": "30+ jaar ervaring", "text": "Een vak dat we door en door kennen." },
+      { "icon": "phone", "title": "7/24 bereikbaar", "text": "Ook bij een dringend probleem." },
+      { "icon": "doc", "title": "Gratis offerte", "text": "Vrijblijvend en duidelijk." },
+      { "icon": "bolt", "title": "Snel ter plaatse", "text": "Binnen de regio Duffel." }
+    ],
+    "services": {
+      "title": "Onze diensten",
+      "intro": "Vraag gerust naar een gratis offerte. Prijzen hangen af van het werk, dus we komen eerst kijken.",
+      "items": [
+        { "icon": "plug", "title": "Elektrische installaties", "text": "Nieuwbouw en renovatie, volledig of gedeeltelijk." },
+        { "icon": "wrench", "title": "Pech en herstellingen", "text": "We zoeken de oorzaak en lossen het op." },
+        { "icon": "panel", "title": "Zekeringkast vernieuwen", "text": "Een veilige, overzichtelijke elektrische kast." },
+        { "icon": "bulb", "title": "Stopcontacten, schakelaars en verlichting", "text": "Plaatsen en vervangen, netjes afgewerkt." },
+        { "icon": "cable", "title": "Bekabeling en kabelgoten", "text": "Kabels trekken en netjes wegwerken." },
+        { "icon": "camera", "title": "Camera's en alarm", "text": "Beveiliging voor woning en bedrijf." },
+        { "icon": "bell", "title": "Parlofoon en deurbel", "text": "Installatie en vervanging van het systeem." },
+        { "icon": "alert", "title": "Noodgevallen", "text": "Bel ons, ook buiten de gewone uren." }
+      ]
+    },
+    "steps": {
+      "title": "Zo werken we",
+      "items": [
+        { "title": "Bel of stuur een bericht", "text": "Vertel kort wat er aan de hand is." },
+        { "title": "Wij komen kijken", "text": "We bekijken het werk ter plaatse." },
+        { "title": "Duidelijke offerte en uitvoering", "text": "U weet vooraf wat het werk inhoudt. Daarna gaan we aan de slag." }
+      ]
+    },
+    "projects": {
+      "title": "Ons werk",
+      "items": []
+    },
+    "reviews": {
+      "title": "Wat klanten zeggen",
+      "items": []
+    },
+    "faq": {
+      "title": "Veelgestelde vragen",
+      "items": [
+        { "q": "Is de offerte gratis?", "a": "Ja. U ontvangt een gratis en vrijblijvende offerte." },
+        { "q": "Kan ik u bellen bij een dringend probleem?", "a": "Ja. Wij zijn 7/24 bereikbaar op +32 495 17 27 39. Bel gerust, ook buiten de gewone uren." },
+        { "q": "In welke regio werkt u?", "a": "Vooral in Duffel en de omliggende gemeenten. Woont u wat verder weg? Bel ons en we bekijken het samen." },
+        { "q": "Voor welke werken kan ik bij u terecht?", "a": "Voor installaties, herstellingen, zekeringkasten, verlichting, bekabeling, camera's en parlofoons. Staat uw vraag er niet bij? Bel ons gerust." },
+        { "q": "Hoe vraag ik een offerte aan?", "a": "Bel ons, stuur een WhatsApp-bericht of gebruik het formulier onderaan deze pagina." }
+      ]
+    },
+    "about": {
+      "title": "Over Elektro Haan",
+      "text": [
+        "Elektro Haan is het eenmanszaak van Hamza Kuyucu in Duffel. Hij heeft meer dan 30 jaar ervaring in de elektriciteit, ook via opleidingen.",
+        "U spreekt altijd rechtstreeks met de man die het werk doet. Eerlijk advies, een duidelijke offerte en netjes werk."
+      ],
+      "photoAlt": "Hamza Kuyucu"
+    },
+    "contact": {
+      "title": "Contact",
+      "intro": "Bel, stuur een WhatsApp of vul het formulier in. We antwoorden zo snel mogelijk.",
+      "labels": {
+        "phone": "Telefoon",
+        "email": "E-mail",
+        "address": "Adres",
+        "hours": "Bereikbaar",
+        "area": "Werkgebied"
+      },
+      "hoursText": "7 dagen op 7, 24 uur op 24",
+      "areaText": "Duffel en omgeving",
+      "form": {
+        "name": "Naam",
+        "phone": "Telefoonnummer",
+        "service": "Soort werk",
+        "servicePlaceholder": "Kies een dienst",
+        "message": "Uw bericht",
+        "submit": "Verstuur via e-mail",
+        "note": "Dit opent uw e-mailprogramma met een kant-en-klaar bericht.",
+        "subject": "Offerteaanvraag via de website",
+        "other": "Iets anders"
+      },
+      "mapTitle": "Kaart van Duffel",
+      "mapOpen": "Open grotere kaart"
+    },
+    "footer": {
+      "legal": "Hamza Kuyucu – Elektro Haan",
+      "vat": "BTW",
+      "privacy": "Privacy en cookies: deze website gebruikt geen cookies. Alleen uw taalkeuze wordt in uw eigen browser bewaard (localStorage). Gegevens uit het formulier gaan enkel naar uw eigen e-mailprogramma en worden pas verstuurd als u zelf op verzenden drukt. Kaart: OpenStreetMap."
+    }
+  },
+  "tr": {
+    "meta": {
+      "title": "Elektro Haan (Horoz Elektrik) – Duffel'de elektrikçi | 30+ yıl tecrübe",
+      "description": "Elektro Haan, Duffel ve çevresinde elektrikçiniz. Tesisat, arıza, sigorta panosu, kamera ve fazlası. 7/24 ulaşılabilir. Ücretsiz teklif alın."
+    },
+    "ui": {
+      "call": "Ara",
+      "callLong": "Hemen Ara",
+      "whatsapp": "WhatsApp",
+      "whatsappLong": "WhatsApp'tan Yaz",
+      "skip": "İçeriğe geç",
+      "lang": "Dil",
+      "photoSoon": "Fotoğraf gelecek",
+      "menu": "Menü",
+      "ctaBar": "Hızlı iletişim"
+    },
+    "nav": [
+      { "id": "diensten", "label": "Hizmetler" },
+      { "id": "werkwijze", "label": "Nasıl çalışırız" },
+      { "id": "faq", "label": "Sorular" },
+      { "id": "over", "label": "Hakkında" },
+      { "id": "contact", "label": "İletişim" }
+    ],
+    "hero": {
+      "title": "Duffel ve çevresinde elektrikçiniz",
+      "text": "Bozuk bir prizden yeni bir sigorta panosuna kadar. 30+ yıllık tecrübe, hızlı geliriz.",
+      "ctaCall": "Hemen Ara",
+      "ctaWhatsapp": "WhatsApp'tan Yaz"
+    },
+    "trust": [
+      { "icon": "clock", "title": "30+ yıl tecrübe", "text": "İşimizi iyi biliriz." },
+      { "icon": "phone", "title": "7/24 ulaşılabilir", "text": "Acil durumda da." },
+      { "icon": "doc", "title": "Ücretsiz teklif", "text": "Bağlayıcı değil, net." },
+      { "icon": "bolt", "title": "Hızlı geliriz", "text": "Duffel bölgesinde." }
+    ],
+    "services": {
+      "title": "Hizmetlerimiz",
+      "intro": "Ücretsiz teklif isteyebilirsiniz. Fiyat işe göre değişir, bu yüzden önce gelip bakarız.",
+      "items": [
+        { "icon": "plug", "title": "Elektrik tesisatı", "text": "Yeni bina ve renovasyon, tam veya kısmi." },
+        { "icon": "wrench", "title": "Arıza tespit ve onarım", "text": "Sebebini bulur, çözeriz." },
+        { "icon": "panel", "title": "Sigorta panosu yenileme", "text": "Güvenli ve düzenli bir pano." },
+        { "icon": "bulb", "title": "Priz, anahtar ve aydınlatma", "text": "Montaj ve değişim, temiz işçilik." },
+        { "icon": "cable", "title": "Kablolama ve kanal çekimi", "text": "Kabloları çeker, düzgünce gizleriz." },
+        { "icon": "camera", "title": "Kamera ve alarm", "text": "Ev ve iş yeri için güvenlik." },
+        { "icon": "bell", "title": "İnterkom ve kapı zili", "text": "Sistemin kurulumu ve değişimi." },
+        { "icon": "alert", "title": "Acil servis", "text": "Mesai dışında da arayabilirsiniz." }
+      ]
+    },
+    "steps": {
+      "title": "Nasıl çalışırız",
+      "items": [
+        { "title": "Arayın veya yazın", "text": "Sorunu kısaca anlatın." },
+        { "title": "Yerinde keşif", "text": "İşi yerinde görürüz." },
+        { "title": "Net teklif ve iş", "text": "İşin kapsamını önceden bilirsiniz. Sonra başlarız." }
+      ]
+    },
+    "projects": {
+      "title": "Yaptığımız işler",
+      "items": []
+    },
+    "reviews": {
+      "title": "Müşteriler ne diyor",
+      "items": []
+    },
+    "faq": {
+      "title": "Sık sorulan sorular",
+      "items": [
+        { "q": "Teklif ücretsiz mi?", "a": "Evet. Ücretsiz ve bağlayıcı olmayan bir teklif alırsınız." },
+        { "q": "Acil durumda arayabilir miyim?", "a": "Evet. +32 495 17 27 39 numarasından 7/24 ulaşabilirsiniz. Mesai dışında da çekinmeden arayın." },
+        { "q": "Hangi bölgede çalışıyorsunuz?", "a": "Çoğunlukla Duffel ve çevre belediyelerde. Biraz uzakta mı oturuyorsunuz? Arayın, birlikte bakalım." },
+        { "q": "Hangi işler için size başvurabilirim?", "a": "Tesisat, arıza, sigorta panosu, aydınlatma, kablolama, kamera ve interkom işleri için. Sorunuz listede yoksa yine de arayın." },
+        { "q": "Nasıl teklif isterim?", "a": "Arayın, WhatsApp'tan yazın veya sayfanın altındaki formu doldurun." }
+      ]
+    },
+    "about": {
+      "title": "Elektro Haan hakkında",
+      "text": [
+        "Elektro Haan, Duffel'de Hamza Kuyucu'nun şahıs firmasıdır. Eğitimleriyle birlikte 30 yıldan fazla elektrik tecrübesi vardır.",
+        "İşi yapan kişiyle doğrudan konuşursunuz. Dürüst tavsiye, net teklif ve düzgün iş."
+      ],
+      "photoAlt": "Hamza Kuyucu"
+    },
+    "contact": {
+      "title": "İletişim",
+      "intro": "Arayın, WhatsApp'tan yazın veya formu doldurun. En kısa sürede dönüş yaparız.",
+      "labels": {
+        "phone": "Telefon",
+        "email": "E-posta",
+        "address": "Adres",
+        "hours": "Ulaşım",
+        "area": "Çalışma bölgesi"
+      },
+      "hoursText": "Haftanın 7 günü, 24 saat",
+      "areaText": "Duffel ve çevresi",
+      "form": {
+        "name": "Ad",
+        "phone": "Telefon numarası",
+        "service": "İş türü",
+        "servicePlaceholder": "Bir hizmet seçin",
+        "message": "Mesajınız",
+        "submit": "E-posta ile gönder",
+        "note": "Bu, e-posta programınızı hazır bir mesajla açar.",
+        "subject": "Web sitesinden teklif talebi",
+        "other": "Başka bir şey"
+      },
+      "mapTitle": "Duffel haritası",
+      "mapOpen": "Büyük haritayı aç"
+    },
+    "footer": {
+      "legal": "Hamza Kuyucu – Elektro Haan",
+      "vat": "BTW (KDV no)",
+      "privacy": "Gizlilik ve çerezler: Bu site çerez kullanmaz. Yalnızca dil seçiminiz kendi tarayıcınızda (localStorage) saklanır. Form bilgileri sadece sizin e-posta programınıza aktarılır, siz gönder tuşuna basmadan hiçbir yere gitmez. Harita: OpenStreetMap."
+    }
+  }
+}
